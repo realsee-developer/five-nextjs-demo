@@ -66,8 +66,9 @@ You must configure your Realsee credentials before running the application.
 
 1.  Create a `.env.local` file in the root directory. You can copy the example file:
 
+
     ```bash
-    cp .env.local.example .env.local
+    cp .env.example .env.local
     ```
 
 2.  Open `.env.local` and update the following variables with your actual credentials:
