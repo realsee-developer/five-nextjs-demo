@@ -124,4 +124,5 @@ You must configure your Realsee credentials before running the application.
 
 ## License
 
-This project is licensed under the MIT License.
+
+This project is licensed under the **Realsee SDK License Agreement**. See the [LICENSE](LICENSE) file for details.
