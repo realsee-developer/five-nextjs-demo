@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 "use client";
 
 import dynamic from "next/dynamic";

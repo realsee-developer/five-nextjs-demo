@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 import { create } from "zustand";
 import { Five } from "@realsee/five";
 

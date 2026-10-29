@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import FiveCanvasWrapper from "@/components/FiveCanvasWrapper";
